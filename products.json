@@ -1,3 +1,4 @@
+
 [
     {
         "name":"iphone",
@@ -26,5 +27,129 @@
         "feature":true,
         "company":"mi"
 
-    }
+    },
+    {
+        "name":"minote8",
+        "price":12,
+        "feature":true,
+        "company":"mi"
+
+    },
+    {
+        "name":"minote7",
+        "price":9,
+        "feature":true,
+        "company":"mi"
+
+    },
+    {
+        "name":"minote5",
+        "price":8,
+        "feature":true,
+        "company":"mi"
+
+    },
+    {
+        "name":"minote10",
+        "price":1,
+        "feature":true,
+        "company":"mi"
+
+    },
+    {
+        "name":"iphone9",
+        "price":15,
+        "feature":true,
+        "company":"apple"
+
+    },
+    {
+        "name":"iphone11",
+        "price":16,
+        "feature":true,
+        "company":"apple"
+    },
+{
+    "name":"iphone2",
+    "price":154,
+    "feature":true,
+    "company":"apple"
+
+},
+{
+    "name":"iphone8",
+    "price":16,
+    "feature":true,
+    "company":"apple"
+
+},
+{
+    "name":"iphonepromax",
+    "price":154,
+    "feature":true,
+    "company":"apple"
+
+},
+{
+    "name":"dell1",
+    "price":160,
+    "feature":true,
+    "company":"dell"
+
+},
+{
+    "name":"iphonepro",
+    "price":154,
+    "feature":true,
+    "company":"apple"
+
+},
+{
+    "name":"dell2",
+    "price":160,
+    "feature":true,
+    "company":"dell"
+
+},{
+    "name":"iphone",
+    "price":154,
+    "feature":true,
+    "company":"apple"
+
+},
+{
+    "name":"iphone10",
+    "price":160,
+    "feature":true,
+    "company":"apple"
+
+},{
+    "name":"iphone",
+    "price":154,
+    "feature":true,
+    "company":"apple"
+
+},
+{
+    "name":"iphone7",
+    "price":19,
+    "feature":true,
+    "company":"apple"
+
+},
+{
+    "name":"iphone",
+    "price":154,
+    "feature":true,
+    "company":"apple"
+
+},
+{
+    "name":"iphone6",
+    "price":16,
+    "feature":true,
+    "company":"apple"
+
+}
+    
 ]
